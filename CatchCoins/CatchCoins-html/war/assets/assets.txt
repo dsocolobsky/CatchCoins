@@ -1,0 +1,5 @@
+d:
+i:badcoin.png
+i:coin.png
+a:engine.wav
+i:ship.png
